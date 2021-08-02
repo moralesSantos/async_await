@@ -14,5 +14,9 @@ async function getmyCity(cityName){
 }
 
 // getmyCity("seattle");
-getmyCity("Raliegh")
+//getmyCity("Raliegh")
+
+
+getmyCity("dallas");
+
 
